@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<h3>Physics student</h3> at the University of Pisa 🎓. This profile is still a work in progress but feel free to check my projects 🔭.
 <!--
 **pask21/pask21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-  Ciao rob
-  <h1>
-    hey
-    <h2>
-      ok
-    </h2>
-  </h1>
-
